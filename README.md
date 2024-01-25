@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **C Programming ,Html ,CSS , Javascript**
+- 💬 Ask me about **C++ Programming ,Python,Html ,CSS , Javascript**
 
 - 📫 How to reach me **poojaa15000@gmail.com**
 
